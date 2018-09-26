@@ -1,0 +1,6 @@
+﻿  AlgorithmImplementations.cpp
+c:\users\chris\google drive\comp3270\programming project\algorithmimplementations.cpp(211): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\chris\google drive\comp3270\programming project\algorithmimplementations.cpp(212): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\chris\google drive\comp3270\programming project\algorithmimplementations.cpp(213): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Algorithms.vcxproj -> C:\Users\Chris\Google Drive\COMP3270\Programming Project\Algorithms\Debug\Algorithms.exe
+  Algorithms.vcxproj -> C:\Users\Chris\Google Drive\COMP3270\Programming Project\Algorithms\Debug\Algorithms.pdb (Partial PDB)
