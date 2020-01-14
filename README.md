@@ -6,11 +6,11 @@ A comparison of theoretical and simulated time and space complexities of various
 It is highly recommended to use C++ in Microsoft Visual Studio to compile and execute the codebase.
 
 ## Notable Files
-* *cat0050_charts.pdf* - File containing charts of the estimated and measured time for all four algorithms
-* *cat0050_complexities.pdf* - File containing the work for all cost and complexities tables
-* *ChristopherTillery_phw_output.txt*	- Output file used to chart time
-* *phw_intput.txt* - Input file used for testing algorithms
-* *AlgorithmImplementations.cpp* - Source code for the algorithm implementations
+* *cat0050_charts.pdf* - Graphs of the estimated and measured time for all the algorithms.
+* *cat0050_complexities.pdf* - Theoretical calculations for costs and complexities of the implemented algorithms.
+* *ChristopherTillery_phw_output.txt*	- Output file used to graph simulated time.
+* *phw_intput.txt* - Input file used for testing algorithms within the simulator.
+* *AlgorithmImplementations.cpp* - C++ source code for the algorithm simulation.
   
 ## Authors
 
