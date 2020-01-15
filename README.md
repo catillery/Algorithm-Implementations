@@ -1,5 +1,5 @@
 # Algorithm Complexity Analysis
-A comparison of theoretical versus simulated time and space complexities of various algorithms. Visualized and evaluated results against theoretical calculations by ANOVA.
+A comparison of theoretical versus simulated time and space complexities of various algorithms. Visualized and evaluated results against theoretical calculations by statistical ANOVA.
 
 ## Getting Started and Executing the Program
 
